@@ -207,4 +207,5 @@ async def on_message(message):
 
 
 
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run("FtYEJCTQiYgpDWnDT2fUFyNFoxPRyr0V")
+
